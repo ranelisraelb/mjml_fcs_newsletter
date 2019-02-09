@@ -1,13 +1,28 @@
 <mjml>
-  <mj-body background-color="#F4F4F4" color="#55575d" font-family="Arial, sans-serif">
+  <mj-body background-color="#F4F4F4" color="#55575d">
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
       <mj-column>
-        <mj-image src="C:\Users\ranel\Documents\FCS\fcs_sun_logo.jpg" />
-        <mj-text>Filipino Community of Seattle<br>Newsletter</p>
+        <mj-image src="fcs_sun_logo.jpg" />
+        <mj-text align="center" font-size="40px">
+          Filipino Community of Seattle<br>Newsletter
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-section background-color="#ef6451">
+        <mj-column>
+          <mj-navbar base-url="https://mjml.io" hamburger="hamburger" ico-color="#ffffff">
+            <mj-navbar-link href="/gettings-started-onboard" color="#ffffff">Getting started</mj-navbar-link>
+            <mj-navbar-link href="/try-it-live" color="#ffffff">Try it live</mj-navbar-link>
+            <mj-navbar-link href="/templates" color="#ffffff">Templates</mj-navbar-link>
+            <mj-navbar-link href="/components" color="#ffffff">Components</mj-navbar-link>
+            <mj-navbar-link href="/gettings-started-onboard" color="#ffffff">Getting started</mj-navbar-link>
+            <mj-navbar-link href="/try-it-live" color="#ffffff">Try it live</mj-navbar-link>
+            <mj-navbar-link href="/templates" color="#ffffff">Templates</mj-navbar-link>
+            <mj-navbar-link href="/components" color="#ffffff">Components</mj-navbar-link>
+          </mj-navbar>
+        </mj-column>
+      </mj-section>
       <mj-column>
         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="http://5vph.mj.am/img/5vph/b/1g8pi/068ys.png" target="_blank" width="600px"></mj-image>
       </mj-column>
