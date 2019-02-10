@@ -1,33 +1,36 @@
 <mjml>
-  <mj-body background-color="#F4F4F4" color="#55575d">
+  <mj-body background-color="#002E5D" color="#55575d" width="620px">
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
       <mj-column>
         <mj-image src="fcs_sun_logo.jpg" />
-        <mj-text align="center" font-size="40px">
-          Filipino Community of Seattle<br>Newsletter
+        <mj-text align="center" font-size="35px" font-family="poppins">
+          Filipino Community of Seattle
+        </mj-text>
+        <mj-text align="center" font-size="35px" font-family="poppins">
+          Newsletter
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
-      <mj-section background-color="#ef6451">
+    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="0 0" text-align="center" vertical-align="top">
+      <mj-section background-color="#0038A8">
         <mj-column>
           <mj-navbar base-url="https://mjml.io" hamburger="hamburger" ico-color="#ffffff">
-            <mj-navbar-link href="/gettings-started-onboard" color="#ffffff">Getting started</mj-navbar-link>
-            <mj-navbar-link href="/try-it-live" color="#ffffff">Try it live</mj-navbar-link>
-            <mj-navbar-link href="/templates" color="#ffffff">Templates</mj-navbar-link>
-            <mj-navbar-link href="/components" color="#ffffff">Components</mj-navbar-link>
-            <mj-navbar-link href="/gettings-started-onboard" color="#ffffff">Getting started</mj-navbar-link>
-            <mj-navbar-link href="/try-it-live" color="#ffffff">Try it live</mj-navbar-link>
-            <mj-navbar-link href="/templates" color="#ffffff">Templates</mj-navbar-link>
-            <mj-navbar-link href="/components" color="#ffffff">Components</mj-navbar-link>
+            <mj-navbar-link href="/gettings-started-onboard" color="#ffffff" font-family="poppins">Home</mj-navbar-link>
+            <mj-navbar-link href="/try-it-live" color="#ffffff" font-family="poppins">About</mj-navbar-link>
+            <mj-navbar-link href="/templates" color="#ffffff" font-family="poppins">News</mj-navbar-link>
+            <mj-navbar-link href="/components" color="#ffffff" font-family="poppins">Events</mj-navbar-link>
+            <mj-navbar-link href="/gettings-started-onboard" color="#ffffff" font-family="poppins">Programs</mj-navbar-link>
+            <mj-navbar-link href="/try-it-live" color="#ffffff" font-family="poppins">Get Involved</mj-navbar-link>
+            <mj-navbar-link href="/templates" color="#ffffff" font-family="poppins">FC Village</mj-navbar-link>
+            <mj-navbar-link href="/components" color="#ffffff" font-family="poppins">Contact</mj-navbar-link>
           </mj-navbar>
         </mj-column>
       </mj-section>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
       <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 25px">
-          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Georgia,Helvetica,Arial,sans-serif">March 2019</p>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="5px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family: poppins">March 2019</p>
         </mj-text>
       </mj-column>
     </mj-section>
